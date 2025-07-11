@@ -1,0 +1,2 @@
+# This file marks this directory as a Bazel workspace.
+# When using bzlmod (MODULE.bazel), this file can be empty.
