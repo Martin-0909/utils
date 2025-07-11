@@ -1,0 +1,28 @@
+# Bazel
+bazel-*
+.bazel/
+
+# Rust
+target/
+Cargo.lock
+
+# Generated files
+*.rrd
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Downloaded files
+rules_rust-*.tar.gz
